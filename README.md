@@ -1,6 +1,8 @@
 # MusicVisualizer
 Documented for Capstone at Humber College Electronics Engineering Technology Program
 
+Main idea of this project is to get audio through microphone from arduino and shows patterns on 32x32 LED matrix that is connected to Rpi. (you could ignore arduino and directly input microphone to pi and some interfacing parts of the main code (bargraph) is not needed)
+
 To start Arduino:
   - Download the Audio_FFT file and import the zip libraires.
   - Microphone output should be connected to pin A0 (or you could change it on the program)
