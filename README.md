@@ -12,7 +12,7 @@ Then add the bargraph file under where you have installed the libraries, prefera
 
 Running Project:
   - To run the project there's a python script that needs to be installed on the Pi and run it every time before running the whole project.
-  - Run the python script by: sudo python "nameofthescript".py
+  - Run the python script by: sudo python readpython.py
   - Then you can start running the main bargraph file (you should be in the same directory to run it) by: ./bragraph
   - Notice that sudo command does not work for the program
   - To stop the program simply try: Ctrl + C
